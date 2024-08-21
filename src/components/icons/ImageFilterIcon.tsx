@@ -12,7 +12,7 @@ export const ImageFilterIcon: React.FC<ImageFilterIconProps> = ({
       viewBox="-4 0 64 64"
       xmlns="http://www.w3.org/2000/svg"
     >
-      <g fill-rule="evenodd" clip-rule="evenodd">
+      <g fillRule="evenodd" clipRule="evenodd">
         <path
           d="M5.125.042c-2.801 0-5.072 2.273-5.072 5.074v53.841c0 2.803 2.271 5.073 5.072 5.073h45.775c2.801 0 5.074-2.271 5.074-5.073v-38.604l-18.904-20.311h-31.945z"
           fill="#49C9A7"
@@ -29,8 +29,8 @@ export const ImageFilterIcon: React.FC<ImageFilterIconProps> = ({
       </g>
       <path
         d="M10.119 53.739v-20.904h20.906v20.904h-20.906zm18.799-18.843h-16.691v12.6h16.691v-12.6zm-9.583 8.384l3.909-5.256 1.207 2.123 1.395-.434.984 5.631h-13.082l3.496-3.32 2.091 1.256zm-3.856-3.64c-.91 0-1.649-.688-1.649-1.538 0-.849.739-1.538 1.649-1.538.912 0 1.65.689 1.65 1.538 0 .85-.738 1.538-1.65 1.538z"
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         fill="#ffffff"
       />
     </svg>
